@@ -1,6 +1,6 @@
 {
   "name": "jest-expect-subclass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Jest expect matchers for subclasses",
   "main": "index.js",
   "files": [

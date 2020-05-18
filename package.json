@@ -16,7 +16,10 @@
   "bugs": {
     "url": "https://github.com/overlookmotel/jest-expect-subclass/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "is-it-type": "^4.0.0",
+    "jest-matcher-utils": "^26.0.1"
+  },
   "devDependencies": {
     "@overlookmotel/eslint-config": "^7.1.2",
     "@overlookmotel/eslint-config-jest": "^4.0.1",

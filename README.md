@@ -7,9 +7,25 @@
 
 # Jest expect matchers for subclasses
 
+## What's it for?
+
+Adds matchers to Jest `expect()` for whether one thing is a subclass of another or not.
+
+* `.toBeSubclassOf()`
+* `.toBeDirectSubclassOf()`
+
 ## Usage
 
-This module is under development and not ready for use yet.
+Require this package in your tests.
+
+Or add to your Jest config file:
+
+```js
+{
+  /* ... rest of config ... */
+  setupFilesAfterEnv: ['jest-expect-subclass']
+}
+```
 
 ## Versioning
 

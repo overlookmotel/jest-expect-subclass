@@ -17,7 +17,7 @@
     "url": "https://github.com/overlookmotel/jest-expect-subclass/issues"
   },
   "dependencies": {
-    "is-it-type": "^4.0.0",
+    "is-it-type": "^4.1.0",
     "jest-matcher-utils": "^26.0.1"
   },
   "devDependencies": {
